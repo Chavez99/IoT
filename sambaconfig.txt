@@ -1,9 +1,9 @@
 [PiShare]
-comment=Pi Share
-path=/home/bartholomew-roberts
-browseable=yes
-writable=yes
-only guest=no
-create mark=0740
-directory mask=no
-public = no
+ comment=Pi Share
+ path=/home/pi
+ browseable=yes
+ writable=yes
+ only guest=no
+ create mark=0740
+ directory mask=no
+ public = no
