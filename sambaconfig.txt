@@ -2,7 +2,7 @@
  comment=Pi Share
  path=/home/pi
  browseable=yes
- writable=yes
+ writeable=yes
  only guest=no
  create mark=0740
  directory mask=no
